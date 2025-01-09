@@ -28,7 +28,7 @@ Place the input image (`pl1.jpeg`) in the project directory. The script will pro
 ### Running the Script
 Run the script with the following command:
 ```bash
-python numberplate_recognition.py
+python platerec.py
 ```
 
 ### Output
