@@ -49,15 +49,6 @@ The script will:
 Detected Texts: ["XYZ 1234"]
 ```
 
-## Directory Structure
-```
-project-directory/
-├── numberplate_recognition.py  # Main script
-├── pl1.jpeg                    # Input image
-├── res.png                     # Output image (generated after running the script)
-├── README.md                   # Project documentation
-```
-
 ## Results
 ### Input Image
 ![Input Image](./pl1.jpeg)
@@ -65,10 +56,6 @@ project-directory/
 ### Output Image
 ![Output Image](./res.png)
 
-## Future Improvements
-- Implement webcam support for real-time recognition.
-- Add a frame-skipping mechanism to optimize performance.
-- Extend support for video files.
 
 ## License
 This project is licensed under the MIT License.
