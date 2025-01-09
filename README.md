@@ -41,7 +41,7 @@ The script will:
 #### Input Image:
 `pl1.jpeg`
 
-#### Output Image:
+#### Output:
 `res.png`
 
 #### Console Output:
