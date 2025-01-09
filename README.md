@@ -44,10 +44,7 @@ The script will:
 #### Output:
 `res.png`
 
-#### Console Output:
-```
-Detected Texts: ["XYZ 1234"]
-```
+
 
 ## Results
 ### Input Image
